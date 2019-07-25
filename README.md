@@ -5,7 +5,7 @@
     With extension AnkiConnect
 
 ### Instructions
-Open LinguaLeo extension console and add there code from `script.js`
+Open LinguaLeo extension console and add there code from `script.js`.
 Bring saved file `words.json` to this folder and execute `run.html`
 
 That's all, folks
